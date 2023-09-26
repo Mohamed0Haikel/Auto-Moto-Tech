@@ -1,7 +1,7 @@
-# Car UI App
+# Auto-Moto-Tech
 
 ## Getting Started
-This is a simple app about car ui app design
+This is a simple app about car systems 
 
 ## Plugins
 - Google fonts "package"
