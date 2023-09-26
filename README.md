@@ -2,7 +2,7 @@
 
 ## Getting Started
 This is a simple app about car ui app design
-<img src="screenshots/mockup.png">
+/*<img src="screenshots/mockup.png">*/
 ## Plugins
 - Google fonts "package"
 - Get (Animation) "package"
